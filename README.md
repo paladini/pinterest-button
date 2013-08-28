@@ -34,9 +34,8 @@ Attribute     | Options                   | Default                             
 ---           | ---                       | ---                                                                    | ---
 `url`         | *string*                  | `https://github.com/gustavoisensee`                                    | url of the site
 `urlImage`    | *string* 	              | `http://www.gravatar.com/avatar/fc33435ffe5822ba2cb2096f44d15d05.png`  | url of the image that will be shared
-`description` | *string*                  | `Web Developer`                                                        | Limage description
-`config`      | *string*                  | `beside`                                                               | above, beside, none
-
+`description` | *string*                  | `Web Developer`                                                        | image description
+`config`      | *above, beside, none*     | `beside`                                                               | above: above the button, beside: beside the button, none: No counter
 
 ## Contributing
 
