@@ -1,6 +1,6 @@
-# &lt;my-element&gt;
+# &lt;Pinterest&gt;
 
-TODO: Write a project description
+Web Component wrapper for Pinterest's like button using Polymer.
 
 > Maintained by [Gustavo Isensee](https://github.com/gustavoisensee).
 
