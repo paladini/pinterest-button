@@ -32,10 +32,10 @@ TODO: Write a project description
 
 Attribute     | Options                   | Default                                                                | Description
 ---           | ---                       | ---                                                                    | ---
-`url`         | *string*                  | `https://github.com/gustavoisensee`                                    | Lorem ipsum
-`urlImage`    | *string* 	              | `http://www.gravatar.com/avatar/fc33435ffe5822ba2cb2096f44d15d05.png`  | Lorem ipsum
-`description` | *string*                  | `Web Developer`                                                        | Lorem ipsum
-`config`      | *string*                  | `beside`                                                               | Lorem ipsum
+`url`         | *string*                  | `https://github.com/gustavoisensee`                                    | url of the site
+`urlImage`    | *string* 	              | `http://www.gravatar.com/avatar/fc33435ffe5822ba2cb2096f44d15d05.png`  | url of the image that will be shared
+`description` | *string*                  | `Web Developer`                                                        | Limage description
+`config`      | *string*                  | `beside`                                                               | above, beside, none
 
 
 ## Contributing
