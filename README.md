@@ -6,7 +6,7 @@ Web Component wrapper for Pinterest's like button using Polymer.
 
 ## Demo
 
-> [Check it live](http://customelements.github.io/pinterest-element).
+> [Check it live](http://gustavoisensee.github.io/pinterest-element).
 
 ## Usage
 
