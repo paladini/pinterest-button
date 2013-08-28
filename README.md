@@ -2,11 +2,11 @@
 
 TODO: Write a project description
 
-> Maintained by [Your Name](https://github.com/yourname).
+> Maintained by [Gustavo Isensee](https://github.com/gustavoisensee).
 
 ## Demo
 
-> [Check it live](http://customelements.github.io/boilerplate-element).
+> [Check it live](http://customelements.github.io/pinterest-element).
 
 ## Usage
 
@@ -19,22 +19,24 @@ TODO: Write a project description
 2. Import Custom Element:
 
 	```html
-	<link rel="import" href="src/my-element.html">
+	<link rel="import" href="src/pinterest.html">
 	```
 
 3. Start using it!
 
 	```html
-	<my-element></my-element>
+	<pinterest></pinterest>
 	```
 
 ## Options
 
-Attribute  | Options                   | Default             | Description
----        | ---                       | ---                 | ---
-`foo`      | *string*                  | `bar`               | Lorem ipsum
-`bar`      | `abc`, `def`, `ghi` 	   | `foo`               | Lorem ipsum
-`height`   | *int*                     | `100`               | Lorem ipsum
+url urlImage description config
+Attribute     | Options                   | Default                                                                | Description
+---           | ---                       | ---                                                                    | ---
+`url`         | *string*                  | `https://github.com/gustavoisensee`                                    | Lorem ipsum
+`urlImage`    | *string* 	              | `http://www.gravatar.com/avatar/fc33435ffe5822ba2cb2096f44d15d05.png`  | Lorem ipsum
+`description` | *string*                  | `Web Developer`                                                        | Lorem ipsum
+`config`      | *string*                  | `beside`                                                               | Lorem ipsum
 
 
 ## Contributing
