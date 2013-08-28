@@ -30,7 +30,6 @@ TODO: Write a project description
 
 ## Options
 
-url urlImage description config
 Attribute     | Options                   | Default                                                                | Description
 ---           | ---                       | ---                                                                    | ---
 `url`         | *string*                  | `https://github.com/gustavoisensee`                                    | Lorem ipsum
