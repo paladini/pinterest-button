@@ -13,7 +13,7 @@ Web Component wrapper for Pinterest's like button using Polymer.
 1. Import Web Components' polyfill:
 
 	```html
-	<script src="//cdnjs.cloudflare.com/ajax/libs/polymer/0.0.20130711/polymer.min.js"></script>
+	<script src="lib/polymer.min.js"></script>
 	```
 
 2. Import Custom Element:
@@ -50,6 +50,8 @@ Attribute     | Options                   | Default                             
 
 * v0.0.1 August 19, 2013
 	* Started project using [boilerplate-element](https://github.com/customelements/boilerplate-element)
+
+* polymer updated to version 0.0.20130816
 
 ## License
 
