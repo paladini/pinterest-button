@@ -1,12 +1,12 @@
-# &lt;pinterest&gt;
+# &lt;pinterest-button&gt;
 
-Web Component wrapper for Pinterest's like button using Polymer.
+Web Component wrapper for Pinterest-button's like button using Polymer.
 
 > Maintained by [Gustavo Isensee](https://github.com/gustavoisensee).
 
 ## Demo
 
-> [Check it live](http://gustavoisensee.github.io/pinterest-element).
+> [Check it live](http://gustavoisensee.github.io/pinterest-button).
 
 ## Usage
 
@@ -19,13 +19,13 @@ Web Component wrapper for Pinterest's like button using Polymer.
 2. Import Custom Element:
 
 	```html
-	<link rel="import" href="src/pinterest.html">
+	<link rel="import" href="src/pinterest-button.html">
 	```
 
 3. Start using it!
 
 	```html
-	<pinterest></pinterest>
+	<pinterest-button></pinterest-button>
 	```
 
 ## Options
@@ -47,8 +47,9 @@ Attribute     | Options                   | Default                             
 
 ## History
 
-* v0.0.1 August 19, 2013
-	* Started project using [boilerplate-element](https://github.com/customelements/boilerplate-element)
+* v0.0.2 September 06, 2013
+
+* Started project using [boilerplate-element](https://github.com/customelements/boilerplate-element)
 
 * polymer updated to version 0.0.20130816
 
