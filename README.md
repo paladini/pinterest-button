@@ -1,8 +1,8 @@
-# &lt;pinterest-button&gt;
+# &lt;pinterest-follow&gt;
 
 Web Component wrapper for Pinterest-button's like button using Polymer.
 
-> Maintained by [Gustavo Isensee](https://github.com/gustavoisensee).
+> Maintained by [Fernando Paladini](https://github.com/paladini).
 
 ## Demo
 
@@ -19,23 +19,21 @@ Web Component wrapper for Pinterest-button's like button using Polymer.
 2. Import Custom Element:
 
 	```html
-	<link rel="import" href="src/pinterest-button.html">
+	<link rel="import" href="src/pinterest-follow.html">
 	```
 
 3. Start using it!
 
 	```html
-	<pinterest-button></pinterest-button>
+	<pinterest-follow></pinterest-follow>
 	```
 
 ## Options
 
 Attribute     | Options                   | Default                                                                | Description
 ---           | ---                       | ---                                                                    | ---
-`url`         | *string*                  | `https://github.com/gustavoisensee`                                    | url of the site
-`urlImage`    | *string* 	              | `http://www.gravatar.com/avatar/fc33435ffe5822ba2cb2096f44d15d05.png`  | url of the image that will be shared
-`description` | *string*                  | `Web Developer`                                                        | image description
-`config`      | *above, beside, none*     | `beside`                                                               | above: above the button, beside: beside the button, none: No counter
+`profile`         | *string*                  | ``                                    | url or profile name of the desireed user
+`text`    | *string* 	              | `Follow Me!`  | text that will appear inside the Pinterest follow button.
 
 ## Contributing
 
@@ -47,7 +45,7 @@ Attribute     | Options                   | Default                             
 
 ## History
 
-* v0.0.2 September 06, 2013
+* v0.1 November 23, 2013
 
 * Started project using [boilerplate-element](https://github.com/customelements/boilerplate-element)
 
