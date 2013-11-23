@@ -1,6 +1,6 @@
 # &lt;pinterest-follow&gt;
 
-Web Component wrapper for Pinterest-button's like button using Polymer.
+Web Component wrapper for Pinterest-button's follow button using Polymer.
 
 > Maintained by [Fernando Paladini](https://github.com/paladini).
 
