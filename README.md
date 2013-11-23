@@ -13,7 +13,7 @@ Web Component wrapper for Pinterest-button's like button using Polymer.
 1. Import Web Components' polyfill:
 
 	```html
-	<script src="//cdnjs.cloudflare.com/ajax/libs/polymer/0.0.20130816/polymer.min.js"></script>
+	<script src="http://www.polymer-project.org/polymer/polymer.min.js"></script>
 	```
 
 2. Import Custom Element:
@@ -25,14 +25,14 @@ Web Component wrapper for Pinterest-button's like button using Polymer.
 3. Start using it!
 
 	```html
-	<pinterest-follow></pinterest-follow>
+	<pinterest-follow profile="http://www.pinterest.com/myProfileUsername" text="Follow Me on Pinterest!"></pinterest-follow>
 	```
 
 ## Options
 
 Attribute     | Options                   | Default                                                                | Description
 ---           | ---                       | ---                                                                    | ---
-`profile`         | *string*                  | ``                                    | url or profile name of the desireed user
+`profile`         | *string*                  |                                     | url or profile name of the desireed user
 `text`    | *string* 	              | `Follow Me!`  | text that will appear inside the Pinterest follow button.
 
 ## Contributing
